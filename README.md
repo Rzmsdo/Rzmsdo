@@ -7,7 +7,8 @@
 proyectos como LinkUp❤️.
   Tengo conocimientos en Javascript✅, HTML✅, CSS✅, React✅, Python✅, Flask✅, ...
 
-Soy un entusiasta de la programacion🔥, siempre estoy inmerso en nuevos proyectos para seguir avanzando👍
+Soy un entusiasta de la programacion🔥, siempre estoy inmerso en nuevos proyectos para seguir avanzando👍.
+Orientado en aprendizaje continuo, resolución de problemas y trabajo en equipo. 
 No olvides ver mis RRSS 
 🔗 www.linkedin.com/in/domirami
  
