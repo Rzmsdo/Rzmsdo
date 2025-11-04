@@ -8,10 +8,11 @@ proyectos como la plataforma de Facticia-Studio, Docula y LinkUp❤️.
   Tengo conocimientos en Javascript✅, Next.js✅, Typescript✅, TailwindCSS✅, React✅, Python✅, Flask✅, ...
 
 Soy un entusiasta de la programacion🔥, siempre estoy inmerso en nuevos proyectos para seguir avanzando👍.
-Orientado en aprendizaje continuo, resolución de problemas y trabajo en equipo. 
+Orientado en aprendizaje continuo, resolución de problemas y trabajo en equipo. <br/>
 No olvides ver mis RRSS 
-🔗 www.linkedin.com/in/domirami
-¡Ni dejar de visitar mi portafolio!
+<br/>
+🔗 www.linkedin.com/in/domirami <br/>
+¡Ni dejar de visitar mi portafolio! <br/>
 🔗 http://domingo-ramirez.vercel.app/
  
 
