@@ -11,5 +11,7 @@ Soy un entusiasta de la programacion🔥, siempre estoy inmerso en nuevos proyec
 Orientado en aprendizaje continuo, resolución de problemas y trabajo en equipo. 
 No olvides ver mis RRSS 
 🔗 www.linkedin.com/in/domirami
+¡Ni dejar de visitar mi portafolio!
+🔗 http://domingo-ramirez.vercel.app/
  
 
