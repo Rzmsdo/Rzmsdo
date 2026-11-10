@@ -5,7 +5,7 @@
 
   Desarrollador Full Stack centrado en el apredizage sobre RAG y proyecto de integracion con IA Generativa⭐. He paricipado en algunos
 proyectos como la plataforma de Facticia-Studio, Docula y LinkUp❤️.
-  Tengo conocimientos en Javascript✅, Next.js✅, Typescript✅, TailwindCSS✅, React✅, Python✅, Flask✅, ...
+  Tengo conocimientos en Javascript✅, Next.js✅, Typescript✅, TailwindCSS✅, React✅, Python✅, Flask✅, Gsap✅, ...
 
 Soy un entusiasta de la programacion🔥, siempre estoy inmerso en nuevos proyectos para seguir avanzando👍.
 Orientado en aprendizaje continuo, resolución de problemas y trabajo en equipo. <br/>
